@@ -1,6 +1,6 @@
-# Harsh Rose – Turtle Graphics Art
+# Rose – Turtle Graphics Art
 
-Harsh Rose is a **Python Turtle Graphics** project that creates a beautiful rose and heart using simple drawing commands. This project demonstrates how to use loops, colors, and shapes to generate visually appealing graphics.
+ Rose is a **Python Turtle Graphics** project that creates a beautiful rose and heart using simple drawing commands. This project demonstrates how to use loops, colors, and shapes to generate visually appealing graphics.
 
 ## Features
 - 🌹 **Draws a realistic rose with petals and leaves**
